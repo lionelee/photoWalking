@@ -6,7 +6,7 @@
 
 ### supported platforms
 
-Android
+Android 4.4 and higher
 
 ### installation
 
